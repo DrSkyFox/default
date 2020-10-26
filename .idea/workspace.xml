@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e657bbf-1ba0-43d6-90ec-b3ce96ec49ba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1iCVa5mSuQryuAmxRWUZxa5Zbex" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DBE.Init.BalloonShown" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="WindowStateProjectService">
+    <state x="452" y="362" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603732713098">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="452" y="362" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3440.1400/-1680.0.1680.1010@0.0.3440.1400" timestamp="1603732713098" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1603732735292">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.3440.1400/-1680.0.1680.1010@0.0.3440.1400" timestamp="1603732735292" />
+    <state x="361" y="348" key="SettingsEditor" timestamp="1603732881811">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="361" y="348" key="SettingsEditor/0.0.3440.1400/-1680.0.1680.1010@0.0.3440.1400" timestamp="1603732881811" />
+  </component>
+</project>

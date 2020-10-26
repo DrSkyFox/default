@@ -19,14 +19,13 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:l1_test_git" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e657bbf-1ba0-43d6-90ec-b3ce96ec49ba" name="Default Changelist" comment="">
+    <list default="true" id="1e657bbf-1ba0-43d6-90ec-b3ce96ec49ba" name="Default Changelist" comment="test">
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/cabcc200-f0c0-478f-95f6-1c40a779968a.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/cabcc200-f0c0-478f-95f6-1c40a779968a.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -37,6 +36,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iCVa5mSuQryuAmxRWUZxa5Zbex" />
@@ -64,7 +68,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/master" />
+                        <option value="l1_test_git" />
                       </list>
                     </value>
                   </entry>
@@ -75,6 +79,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="452" y="362" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603732713098">
@@ -101,17 +109,17 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="452" y="436" key="Vcs.Push.Dialog.v2/0.0.3440.1400/-1680.0.1680.1010@0.0.3440.1400" timestamp="1603733923975" />
-    <state x="759" y="580" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1603732995025">
+    <state x="759" y="580" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1603734725087">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="759" y="580" key="com.intellij.database.actions.DdlActions$CreateObject$1/0.0.3440.1400/-1680.0.1680.1010@0.0.3440.1400" timestamp="1603732995025" />
+    <state x="759" y="580" key="com.intellij.database.actions.DdlActions$CreateObject$1/0.0.3440.1400/-1680.0.1680.1010@0.0.3440.1400" timestamp="1603734725087" />
     <state x="722" y="580" width="316" height="246" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1603734544819">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="722" y="580" width="316" height="246" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.3440.1400/-1680.0.1680.1010@0.0.3440.1400" timestamp="1603734544819" />
-    <state x="718" y="441" width="656" height="524" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1603734388551">
+    <state x="478" y="259" width="1184" height="524" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1603735855164">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="718" y="441" width="656" height="524" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.3440.1400/-1680.0.1680.1010@0.0.3440.1400" timestamp="1603734388551" />
+    <state x="478" y="259" width="1184" height="524" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.3440.1400/-1680.0.1680.1010@0.0.3440.1400" timestamp="1603735855164" />
   </component>
 </project>
